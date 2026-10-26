@@ -1,12 +1,15 @@
+-- Create the project database
 CREATE DATABASE IF NOT EXISTS expense_tracker;
 USE expense_tracker;
 
+-- Create the categories table
 CREATE TABLE IF NOT EXISTS categories 
 (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50) NOT NULL UNIQUE
 );
 
+-- Create the expenses table
 CREATE TABLE IF NOT EXISTS expenses 
 (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -17,6 +20,7 @@ CREATE TABLE IF NOT EXISTS expenses
     FOREIGN KEY (category_id) REFERENCES categories(id)
 );
 
+-- Add the default expense categories
 INSERT IGNORE INTO categories (name) VALUES :
 ('Food'),
 ('Transport'),

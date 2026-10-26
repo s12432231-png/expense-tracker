@@ -40,6 +40,7 @@ document.addEventListener
         clearError(amount);
 
         if (description.value.trim() === "") 
+    
         {
             showError(description, "Description is required.");
             valid = false;

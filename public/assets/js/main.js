@@ -1,3 +1,6 @@
+```javascript
+// Validate the expense form before submission.
+```
 document.addEventListener
 ("DOMContentLoaded", function () 
 {

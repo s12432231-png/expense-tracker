@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS expenses
     FOREIGN KEY (category_id) REFERENCES categories(id)
 );
 
-INSERT IGNORE INTO categories (name) VALUES :
+INSERT IGNORE INTO categories (name) VALUES 
 ('Food'),
 ('Transport'),
 ('Bills'),

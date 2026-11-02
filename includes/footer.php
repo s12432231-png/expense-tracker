@@ -4,6 +4,3 @@
     <script src="../assets/js/main.js"></script>
 </body>
 </html>
-<h2>>
-    jjj
-</h2>

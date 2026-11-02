@@ -1,13 +1,5 @@
 <?php
 
-```php
-<div class="container mt-4">
-    <h1>Expense Summary</h1>
-    <p>View your expenses by category.</p>
-</div>
-```
-
-
 require_once __DIR__ . '/../includes/db.php';
 
 $sql = "SELECT

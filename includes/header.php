@@ -15,9 +15,3 @@
         </div>
     </nav>
     <div class="container">
-        <h1>
-            jana
-        </h1>
-
-
-        

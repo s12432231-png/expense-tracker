@@ -1,9 +1,6 @@
-
 <?php
 
-
 require_once __DIR__ . '/../includes/db.php';
-
 
 $sql = "SELECT expenses.id,
                expenses.description,

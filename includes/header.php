@@ -11,7 +11,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
         <div class="container">
-            <a class="navbar-brand" href="index.php">Expense Tracker</a>
+            <a class="navbar-brand" href="index.php">Expense Trackerz</a>
         </div>
     </nav>
     <div class="container">

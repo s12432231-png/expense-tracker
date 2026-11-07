@@ -44,6 +44,14 @@ my commits :
 11- edit in files
 12- the last edit in report
 
+(images/![error](imges/1c.png))
+(images/![error](imges/2c.png))
+(images/![error](imges/3c.png))
+(images/![error](imges/4c.png))
+(images/![error](imges/5c.png))
+(images/![error](imges/6c.png))
+(images/![error](imges/7c.png))
+
 **قمت بانشاء باقي الهيكليه لاستكمال عملي بالكامل
 
 // واستعنت بالذكاء الاصطناعي للتذكر الماده القديمه وكتابه التقرير
